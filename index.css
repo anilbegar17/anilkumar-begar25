@@ -1,6 +1,6 @@
 body{
     background-color: rgb(74, 201, 15); 
-             background-image: url(../../../img.jpeg);
+             background-image: url(../../../img/bg.jpeg);
              background-size: cover; 
              background-repeat: no-repeat; 
              background-attachment: fixed; 
@@ -22,3 +22,4 @@ nav a{
     font-weight: bold;
     margin: 10px;
 }
+
