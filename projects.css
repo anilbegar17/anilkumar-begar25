@@ -1,0 +1,19 @@
+body{
+    background-color: black; 
+             background-image: url('../../../img.jpeg');
+}
+nav a[href="home.html"] {
+    color: rgb(185, 4, 110);
+ 
+}
+nav a[href="about.html"]{
+    color: chartreuse;
+}
+nav a[href="contact.html"]{
+    color: #0066ff;
+}
+nav a{
+    text-decoration: none;
+    font-weight: bold;
+    margin: 10px;
+}
