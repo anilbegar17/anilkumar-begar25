@@ -1,6 +1,6 @@
 body{
     background-color: rgb(74, 201, 15); 
-             background-image: url(../../../portfolio.jpeg);
+             background-image: url('../../../images/portfolio.jpeg');
              background-size: cover; 
              background-repeat: no-repeat; 
              background-attachment: fixed; 
@@ -22,5 +22,6 @@ nav a{
     font-weight: bold;
     margin: 10px;
 }
+
 
 
